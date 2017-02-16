@@ -35,7 +35,7 @@ input.form-control {
   border-radius: 0 !important;
 }
 input.form-control:focus {
-  border-color: #EF4035;
+  border-color: #FFC153;
   box-shadow: none;
 }
 .btn,
@@ -47,8 +47,8 @@ input.form-control:focus {
 }
 .btn-primary {
   color: white;
-  background-color: #EF4035;
-  border-color: #EF4035;
+  background-color: #FFC153;
+  border-color: #FFC153;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -86,11 +86,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #EF4035;
-  border-color: #EF4035;
+  background-color: #FFC153;
+  border-color: #FFC153;
 }
 .btn-primary .badge {
-  color: #EF4035;
+  color: #FFC153;
   background-color: white;
 }
 body {
@@ -99,7 +99,7 @@ body {
   font-weight: 300;
 }
 a {
-  color: #EF4035;
+  color: #FFC153;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -151,7 +151,7 @@ hr.right {
   margin: 15px 0 15px auto;
 }
 hr.colored {
-  border-color: #EF4035;
+  border-color: #FFC153;
 }
 @media (min-width: 768px) {
   hr {
@@ -166,7 +166,7 @@ hr.colored {
   }
 }
 .text-primary {
-  color: #EF4035;
+  color: #FFC153;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
@@ -177,12 +177,12 @@ hr.colored {
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #EF4035;
+  color: #FFC153;
   background-color: white;
   border-radius: 0;
 }
 .navbar-default {
-  background-color: #EF4035;
+  background-color: #FFC153;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
@@ -484,7 +484,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #EF4035 !important;
+  background-color: #FFC153 !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -575,7 +575,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #EF4035 !important;
+  background-color: #FFC153 !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -687,7 +687,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #EF4035 !important;
+  background-color: #FFC153 !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -816,7 +816,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: -30px;
   bottom: 0;
-  background-color: #EF4035 !important;
+  background-color: #FFC153 !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -860,9 +860,9 @@ aside.cta-quote span.quote {
   transition: all 0.5s;
 }
 .portfolio-filter #filters li .filter.active {
-  background-color: #EF4035;
+  background-color: #FFC153;
   color: white;
-  border-color: #EF4035;
+  border-color: #FFC153;
 }
 #portfoliolist .mix {
   width: 31%;
@@ -900,7 +900,7 @@ aside.cta-quote span.quote {
   transition: all 0.5s;
 }
 #portfoliolist .mix .portfolio-wrapper .caption .caption-bg {
-  background: #EF4035;
+  background: #FFC153;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -1041,7 +1041,7 @@ aside.cta-quote span.quote {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #EF4035;
+  color: #FFC153;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e1e1e1;
@@ -1088,7 +1088,7 @@ footer.footer .copyright p.small {
 }
 .btn-outline-light:hover,
 .btn-outline-light:focus {
-  color: #EF4035;
+  color: #FFC153;
   background: white;
   outline: none;
 }
@@ -1103,8 +1103,8 @@ footer.footer .copyright p.small {
 .btn-outline-dark:hover,
 .btn-outline-dark:focus {
   color: white;
-  background: #EF4035;
-  border-color: #EF4035;
+  background: #FFC153;
+  border-color: #FFC153;
   outline: none;
 }
 .btn {
@@ -1131,7 +1131,7 @@ footer.footer .copyright p.small {
   text-transform: none;
 }
 .btn-full-width:hover {
-  background-color: #EF4035;
+  background-color: #FFC153;
   color: white;
 }
 .btn-full-width:focus {
